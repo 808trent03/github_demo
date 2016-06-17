@@ -1,0 +1,18 @@
+body{
+	background-color: red;
+
+}
+
+h1 {
+	color: green;
+}
+
+div.shape{
+	background-color: purple;
+	width: 100px;
+	height: 100px;
+	margin: 10px;
+}
+div#circle{
+	border-radius: 100%;
+}
