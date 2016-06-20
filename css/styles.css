@@ -1,5 +1,5 @@
 body{
-	background-color: red;
+	background-color: orange;
 
 }
 
@@ -8,7 +8,7 @@ h1 {
 }
 
 div.shape{
-	background-color: purple;
+	background-color: blue;
 	width: 100px;
 	height: 100px;
 	margin: 10px;
